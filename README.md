@@ -7,14 +7,14 @@ This app is **responsive**, works seamlessly across devices, and can even be ins
 
 ## ✨ Features
 
-✅ **Track Income & Expenses** – Add, edit, and delete financial transactions with ease.
-✅ **Live Balance Calculation** – Get an instant overview of your current balance.
-✅ **Detailed History** – View transactions with timestamps and dates.
-✅ **Dark/Light Mode** – Switch between themes for a comfortable user experience.
-✅ **Import & Export Data** – Backup and restore your transaction history with one click.
-✅ **Responsive Design** – Optimized for mobile, tablet, and desktop.
-✅ **PWA Support** – Installable app that works offline.
-✅ **Local Storage Support** – Persistent data even after refreshing the browser.
+✅ **Track Income & Expenses** – Add, edit, and delete financial transactions with ease
+✅ **Live Balance Calculation** – Get an instant overview of your current balance
+✅ **Detailed History** – View transactions with timestamps and dates
+✅ **Dark/Light Mode** – Switch between themes for a comfortable user experience
+✅ **Import & Export Data** – Backup and restore your transaction history with one click
+✅ **Responsive Design** – Optimized for mobile, tablet, and desktop
+✅ **PWA Support** – Installable app that works offline
+✅ **Local Storage Support** – Persistent data even after refreshing the browser
 
 ---
 
@@ -41,7 +41,7 @@ This app is **responsive**, works seamlessly across devices, and can even be ins
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/your-username/expense-tracker.git
+   git clone https://github.com/AnishSambhwani8278/expense-tracker.git
    cd expense-tracker
    ```
 
@@ -54,7 +54,7 @@ This app is **responsive**, works seamlessly across devices, and can even be ins
 3. **Start the development server**:
 
    ```bash
-   npm start
+   npm run dev
    ```
 
 4. **Build for production**:
