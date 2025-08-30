@@ -88,8 +88,4 @@ This app is **responsive**, works seamlessly across devices, and can even be ins
 * [React Icons](https://react-icons.github.io/react-icons/)
 * [react-date-picker](https://github.com/wojtekmaj/react-date-picker)
 
----
 
-That’s a **GitHub-ready README**—clear, polished, and easy to follow for new users and contributors.
-
-Would you like me to make it **more visually appealing** with badges (npm version, build status, license, etc.) to give it that extra “open-source polish”?
