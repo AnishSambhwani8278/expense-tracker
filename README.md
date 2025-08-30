@@ -20,7 +20,7 @@ This app is **responsive**, works seamlessly across devices, and can even be ins
 
 ## 🚀 Demo
 
-🔗 [Live Demo](http://expensetrackinreact.netlify.app/) *(Replace with your deployed URL)*
+🔗 [Live Demo](http://expensetrackinreact.netlify.app/)
 
 ---
 
